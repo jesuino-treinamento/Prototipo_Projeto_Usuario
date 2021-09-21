@@ -1,0 +1,12 @@
+D:\Projeto_Usuarios\ProjetoUsuario.Models\bin\Debug\net5.0\ProjetoUsuario.Models.deps.json
+D:\Projeto_Usuarios\ProjetoUsuario.Models\bin\Debug\net5.0\ProjetoUsuario.Models.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Models\bin\Debug\net5.0\ref\ProjetoUsuario.Models.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Models\bin\Debug\net5.0\ProjetoUsuario.Models.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Models\obj\Debug\net5.0\ProjetoUsuario.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto_Usuarios\ProjetoUsuario.Models\obj\Debug\net5.0\ProjetoUsuario.Models.AssemblyInfoInputs.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Models\obj\Debug\net5.0\ProjetoUsuario.Models.AssemblyInfo.cs
+D:\Projeto_Usuarios\ProjetoUsuario.Models\obj\Debug\net5.0\ProjetoUsuario.Models.csproj.CoreCompileInputs.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Models\obj\Debug\net5.0\ProjetoUsuario.Models.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Models\obj\Debug\net5.0\ref\ProjetoUsuario.Models.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Models\obj\Debug\net5.0\ProjetoUsuario.Models.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Models\obj\Debug\net5.0\ProjetoUsuario.Models.csprojAssemblyReference.cache

@@ -1,0 +1,77 @@
+﻿@model ProjetoUsuario.Models.Dtos.LoginDto
+@{ Layout = "_LayoutLogin";
+
+    var tempData = TempData["ErroAutenticacao"];
+    var erroAutenticacao = tempData != null ? tempData.ToString() : string.Empty;
+ }
+
+@section Scripts
+    {
+    <script src="~/js/Usuario/Util.js"></script>
+    <script src="~/js/Usuario/SalvarRegistro.js" asp-append-version="true"></script>
+
+    <link href="~/css/login.css" rel="stylesheet" />
+}
+
+
+<div class="login-wrap">
+    <div class="login-html">
+        <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Login</label>
+        <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">Registrar</label>
+        <div class="login-form">
+            <div class="sign-in-htm">
+                @using (Html.BeginForm("Login", "Secure", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, true, new { @class = "col-xs-12", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <fieldset>                     
+                        <div class="form-group">
+                            @Html.TextBoxFor(model => model.Usuario, new { @class = "form-control", placeholder = "Usuário" })
+                            @Html.ValidationMessageFor(model => model.Usuario, string.Empty, htmlAttributes: new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            @Html.PasswordFor(model => model.Senha, new { @class = "form-control", placeholder = "Senha" })
+                            @Html.ValidationMessageFor(model => model.Senha, string.Empty, htmlAttributes: new { @class = "text-danger" })
+                        </div>
+                        @if (!string.IsNullOrEmpty(erroAutenticacao))
+                        {
+                            <text>
+                                <span class="text-danger">@erroAutenticacao</span>
+                            </text>
+                        }
+                        <button type="submit" class="btn btn-lg btn-primary btn-block">Entrar</button>
+                    
+                    </fieldset>
+               }
+            </div>
+            <form id="frm-registro" name="fregistro">
+                <div class="sign-up-htm">
+
+                    @using (Html.BeginForm("SalvarRegistro", "Usuario", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, true, new { @class = "col-xs-12", role = "form" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <fieldset>
+                            <div class="form-group">
+                                <input asp-for="GetUsuarios().Nome" id="text" placeholder="Nome" class="form-control" />
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="GetUsuarios().Login" id="text" placeholder="Login" class="form-control" />
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="GetUsuarios().Email" id="text" name="email" placeholder="E-mail" onblur="validacaoEmail(fregistro.email)" maxlength="60" size='65' class="form-control" />
+                                <div id="msgemail"></div>
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="GetUsuarios().Telefone" id="text" placeholder="Telefone" name="Telefone" onkeypress="mask(this, mphone);" onblur="mask(this, mphone);" class="form-control" />
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="GetUsuarios().Senha" id="text" placeholder="Senha" name="Senha" type="password" class="form-control" />
+                            </div>
+
+                            <a id="btn-salvarregistro" type="submit" class="btn btn-lg btn-primary btn-block" asp-area="Painel" asp-controller="Usuario" asp-action="SalvarRegistro">Salvar</a>
+                        </fieldset>}
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

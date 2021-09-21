@@ -1,0 +1,94 @@
+﻿@model IEnumerable<ProjetoUsuario.Models.Dtos.UsuarioDto>
+@{ ViewData["Title"] = "Usuários"; }
+@section Scripts
+{
+    <script src="~/js/Usuario/ConsultarUsuario.js" asp-append-version="true"></script>
+
+@*<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>*@
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.quicksearch/2.3.1/jquery.quicksearch.js"></script>
+    <script>
+        var columns = document.querySelectorAll('.titleColumn');
+
+        columns.forEach(c => c.addEventListener("click", (event) => {
+            console.log(event.target.textContent)
+        }))
+    </script>
+
+    <script>
+        // ordena dado um criterio
+        var sortBy = (criteria) => {
+
+            // aqui você seleciona as trs do tableBody
+            // var trs = document.querySelectorAll('.tableBody tr');
+
+            // e pode applicar qualquer algoritmo de ordenação no array de trs retornado, inclusive o proprio .sort() do Array JavaScript
+            // Dê uma olhada aqui https://www.w3schools.com/js/js_array_sort.asp
+
+            // apos ter o array ordenado você pode selecionar novamente o tableBody e adicionar as trs em ordem na propriedade .innerHTML do tbody
+            // algo como tbody.innerHTML = seu conteúdo html (trs ordenadas)
+        }
+
+        var columns = document.querySelectorAll('.titleColumn');
+
+        columns.forEach(c => c.addEventListener("click", (event) => {
+            var columnTitle = event.target.textContent;
+            sortBy(columnTitle);
+        }))
+
+    </script>
+
+    <script>
+        $('input#txt_consulta').quicksearch('table#tabela tbody tr');
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+}
+
+<div class="row">
+    <div class="col">
+        <h2 class="display-4">Consultar Usuários</h2>
+    </div>
+</div>
+
+<div class="row mt-4 mb-4">
+    <div class="col">
+        <a class="btn btn-primary" asp-area="Painel" asp-controller="Usuario" asp-action="Novo"><i class="fas fa-plus-circle"></i> Novo</a>
+    </div>
+</div>
+
+<div class="form-group input-group">
+    <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+    <input name="consulta" id="txt_consulta" placeholder="Consultar" type="text" class="form-control">
+</div>
+
+<div class="row">
+    <div class="col">
+        <table id="tabela" onclick="sortTable()" class="table table-striped table-bordered table-hover dataTable">
+            <thead class="thead-dark">
+                <tr>
+                    <th class="titleColumn" scope="col">#</th>
+                    <th class="titleColumn" scope="col">Nome</th>
+                    <th class="titleColumn" scope="col">Login</th>
+                    <th class="titleColumn" scope="col">Email</th>
+                    <th class="titleColumn" scope="col">Telefone</th>
+                </tr>
+            </thead>
+            <tbody class="tableBody">
+                @foreach (var item in Model)
+                {
+    <tr>
+        <th scope="row">
+            <a class="btn btn-info btn-sm" asp-area="Painel" asp-controller="Usuario" asp-action="Editar" asp-route-id="@item.IdUsuario"><i class="fas fa-pen-alt"></i></a>
+            <a data-title="Exclusão" data-message="Deseja realmente excluir?" class="btn btn-danger btn-sm btn-delete" asp-area="Painel" asp-controller="Usuario" asp-action="Excluir" asp-route-id="@item.IdUsuario"><i class="fas fa-trash-alt"></i></a>
+        </th>
+        <td>@item.Nome</td>
+        <td>@item.Login</td>
+        <td>@item.Email</td>
+        <td>@item.Telefone</td>
+    </tr>
+}
+            </tbody>
+        </table>
+    </div>
+</div>

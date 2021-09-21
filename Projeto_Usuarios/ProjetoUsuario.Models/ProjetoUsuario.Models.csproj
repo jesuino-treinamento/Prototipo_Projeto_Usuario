@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidator" Version="2.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.3" />
+    <PackageReference Include="Serilog" Version="2.9.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.15" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.3.3" />
+    <PackageReference Include="System.ServiceModel.Duplex" Version="4.4.*" />
+    <PackageReference Include="System.ServiceModel.Http" Version="4.4.*" />
+    <PackageReference Include="System.ServiceModel.NetTcp" Version="4.4.*" />
+    <PackageReference Include="System.ServiceModel.Security" Version="4.4.*" />
+  </ItemGroup>
+
+  <!--<ItemGroup>
+    <Folder Include="SinqiaServiceIntegracaoContext\Commands\Input\" />
+    <Folder Include="SinqiaServiceIntegracaoContext\Entities\" />
+    <Folder Include="SinqiaServiceLogarContext\Commands\Output\" />
+    <Folder Include="SinqiaServiceLogarContext\Entities\" />
+  </ItemGroup>-->
+
+</Project>

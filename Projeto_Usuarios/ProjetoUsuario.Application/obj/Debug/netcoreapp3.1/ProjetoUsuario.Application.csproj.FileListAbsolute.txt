@@ -1,0 +1,14 @@
+D:\Projeto_Usuarios\ProjetoUsuario.Application\bin\Debug\netcoreapp3.1\ProjetoUsuario.Application.deps.json
+D:\Projeto_Usuarios\ProjetoUsuario.Application\bin\Debug\netcoreapp3.1\ProjetoUsuario.Application.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Application\bin\Debug\netcoreapp3.1\ProjetoUsuario.Application.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Application\bin\Debug\netcoreapp3.1\ProjetoUsuario.Models.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Application\bin\Debug\netcoreapp3.1\ProjetoUsuario.Models.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Application\obj\Debug\netcoreapp3.1\ProjetoUsuario.Application.csprojAssemblyReference.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Application\obj\Debug\netcoreapp3.1\ProjetoUsuario.Application.AssemblyInfoInputs.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Application\obj\Debug\netcoreapp3.1\ProjetoUsuario.Application.AssemblyInfo.cs
+D:\Projeto_Usuarios\ProjetoUsuario.Application\obj\Debug\netcoreapp3.1\ProjetoUsuario.Application.csproj.CoreCompileInputs.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Application\obj\Debug\netcoreapp3.1\ProjetoUsuario.Application.csproj.CopyComplete
+D:\Projeto_Usuarios\ProjetoUsuario.Application\obj\Debug\netcoreapp3.1\ProjetoUsuario.Application.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Application\obj\Debug\netcoreapp3.1\ProjetoUsuario.Application.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Application\bin\Debug\netcoreapp3.1\ProjetoUsuario.Utils.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Application\bin\Debug\netcoreapp3.1\ProjetoUsuario.Utils.pdb

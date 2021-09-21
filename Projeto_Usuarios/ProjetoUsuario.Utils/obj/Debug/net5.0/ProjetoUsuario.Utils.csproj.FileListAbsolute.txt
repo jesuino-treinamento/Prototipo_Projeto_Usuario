@@ -1,0 +1,12 @@
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\bin\Debug\net5.0\ProjetoUsuario.Utils.deps.json
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\bin\Debug\net5.0\ProjetoUsuario.Utils.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\bin\Debug\net5.0\ref\ProjetoUsuario.Utils.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\bin\Debug\net5.0\ProjetoUsuario.Utils.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\obj\Debug\net5.0\ProjetoUsuario.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\obj\Debug\net5.0\ProjetoUsuario.Utils.AssemblyInfoInputs.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\obj\Debug\net5.0\ProjetoUsuario.Utils.AssemblyInfo.cs
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\obj\Debug\net5.0\ProjetoUsuario.Utils.csproj.CoreCompileInputs.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\obj\Debug\net5.0\ProjetoUsuario.Utils.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\obj\Debug\net5.0\ref\ProjetoUsuario.Utils.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\obj\Debug\net5.0\ProjetoUsuario.Utils.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Utils\obj\Debug\net5.0\ProjetoUsuario.Utils.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Projeto_Usuarios\ProjetoUsuario.Data\obj\Debug\netcoreapp3.1\ProjetoUsuario.Data.csprojAssemblyReference.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Data\obj\Debug\netcoreapp3.1\ProjetoUsuario.Data.AssemblyInfoInputs.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Data\obj\Debug\netcoreapp3.1\ProjetoUsuario.Data.AssemblyInfo.cs
+D:\Projeto_Usuarios\ProjetoUsuario.Data\obj\Debug\netcoreapp3.1\ProjetoUsuario.Data.csproj.CoreCompileInputs.cache
+D:\Projeto_Usuarios\ProjetoUsuario.Data\bin\Debug\netcoreapp3.1\ProjetoUsuario.Data.deps.json
+D:\Projeto_Usuarios\ProjetoUsuario.Data\bin\Debug\netcoreapp3.1\ProjetoUsuario.Data.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Data\bin\Debug\netcoreapp3.1\ProjetoUsuario.Data.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Data\bin\Debug\netcoreapp3.1\ProjetoUsuario.Models.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Data\bin\Debug\netcoreapp3.1\ProjetoUsuario.Models.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Data\obj\Debug\netcoreapp3.1\ProjetoUsuario.Data.csproj.CopyComplete
+D:\Projeto_Usuarios\ProjetoUsuario.Data\obj\Debug\netcoreapp3.1\ProjetoUsuario.Data.dll
+D:\Projeto_Usuarios\ProjetoUsuario.Data\obj\Debug\netcoreapp3.1\ProjetoUsuario.Data.pdb
+D:\Projeto_Usuarios\ProjetoUsuario.Data\bin\Debug\netcoreapp3.1\ProjetoUsuario.Data.runtimeconfig.json
+D:\Projeto_Usuarios\ProjetoUsuario.Data\bin\Debug\netcoreapp3.1\ProjetoUsuario.Data.runtimeconfig.dev.json
+D:\Projeto_Usuarios\ProjetoUsuario.Data\obj\Debug\netcoreapp3.1\ProjetoUsuario.Data.genruntimeconfig.cache
