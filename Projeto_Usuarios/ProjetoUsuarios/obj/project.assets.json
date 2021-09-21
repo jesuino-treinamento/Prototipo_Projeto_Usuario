@@ -8875,11 +8875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuarios\\ProjetoUsuarios.csproj",
+      "projectUniqueName": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuarios\\ProjetoUsuarios.csproj",
       "projectName": "ProjetoUsuarios",
-      "projectPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuarios\\ProjetoUsuarios.csproj",
+      "projectPath": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuarios\\ProjetoUsuarios.csproj",
       "packagesPath": "C:\\Users\\Jesuino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuarios\\obj\\",
+      "outputPath": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuarios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8899,14 +8899,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Application\\ProjetoUsuario.Application.csproj": {
-              "projectPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Application\\ProjetoUsuario.Application.csproj"
+            "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Application\\ProjetoUsuario.Application.csproj": {
+              "projectPath": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Application\\ProjetoUsuario.Application.csproj"
             },
-            "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj": {
-              "projectPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj"
+            "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj": {
+              "projectPath": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj"
             },
-            "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj": {
-              "projectPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj"
+            "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj": {
+              "projectPath": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj"
             }
           }
         }

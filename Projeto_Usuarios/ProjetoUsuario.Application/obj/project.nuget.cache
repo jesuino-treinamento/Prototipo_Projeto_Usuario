@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2D8qnHQeiXvWqtEmhyo2db0ISr6VTf452JyAVwNS4xpFqUJ4gAtwy/9/lol4R8iZ9miuYnC9vMPKYcDP5j58ZQ==",
+  "dgSpecHash": "WCsWRuECKuF7AlcZSb/wa4BovY3DNTqqqhX18GTLTWOpZgDLX4YzyIocaEQLGVg0kLboe5nFK/UxTLkRVSK28Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Application\\ProjetoUsuario.Application.csproj",
+  "projectFilePath": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Application\\ProjetoUsuario.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jesuino\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",
     "C:\\Users\\Jesuino\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.10\\microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",

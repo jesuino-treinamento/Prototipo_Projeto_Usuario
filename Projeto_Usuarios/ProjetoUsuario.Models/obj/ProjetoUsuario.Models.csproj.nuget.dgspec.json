@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj": {}
+    "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj": {
+    "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj",
         "projectName": "ProjetoUsuario.Models",
-        "projectPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj",
+        "projectPath": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj",
         "packagesPath": "C:\\Users\\Jesuino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\obj\\",
+        "outputPath": "C:\\Users\\Jesuino\\source\\repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
