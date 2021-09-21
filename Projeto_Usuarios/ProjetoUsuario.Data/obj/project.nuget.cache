@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gfp5ta4Pc2kzMqzEL7b5I3K50UhKy6V7kK7EODKxjNJzOw85EchoP3LmAvzXgR3nwb7wBtoajJsJOTMVDe4sKA==",
+  "dgSpecHash": "ki3wkzvp2MSsfF/TleYHWCyul4mlFZTgCfHR8LjApT7PaLB9ldXy3ClMQP/TgF2kZBz/Rt6csg+tUPcsxFt2uQ==",
   "success": true,
-  "projectFilePath": "D:\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj",
+  "projectFilePath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jesuino\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

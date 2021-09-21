@@ -8751,11 +8751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj",
       "projectName": "ProjetoUsuario.Data",
-      "projectPath": "D:\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj",
+      "projectPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Data\\ProjetoUsuario.Data.csproj",
       "packagesPath": "C:\\Users\\Jesuino\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeto_Usuarios\\ProjetoUsuario.Data\\obj\\",
+      "outputPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8775,8 +8775,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj": {
-              "projectPath": "D:\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj"
+            "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj": {
+              "projectPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZYdCzNP8LBKcErFVV492s8PAwDdCtmX/WJJrLkPswZxpuJTX1gupA4ZgxiYR1MJ6SbMvwhFt/KmwmwrKB7/GA==",
+  "dgSpecHash": "vJlpvMZFuStwW/eu7Sh8QOzNSVFkB31SdafjcZz+WEfsgOcACAa43HSU6dQyM9eE7m/rEJoUEOwpnJNeadyoBg==",
   "success": true,
-  "projectFilePath": "D:\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj",
+  "projectFilePath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Models\\ProjetoUsuario.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jesuino\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",
     "C:\\Users\\Jesuino\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.3\\microsoft.aspnetcore.jsonpatch.3.1.3.nupkg.sha512",

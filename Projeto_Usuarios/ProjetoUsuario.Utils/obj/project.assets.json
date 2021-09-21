@@ -77,11 +77,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeto_Usuarios\\ProjetoUsuario.Utils\\ProjetoUsuario.Utils.csproj",
+      "projectUniqueName": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Utils\\ProjetoUsuario.Utils.csproj",
       "projectName": "ProjetoUsuario.Utils",
-      "projectPath": "D:\\Projeto_Usuarios\\ProjetoUsuario.Utils\\ProjetoUsuario.Utils.csproj",
+      "projectPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Utils\\ProjetoUsuario.Utils.csproj",
       "packagesPath": "C:\\Users\\Jesuino\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeto_Usuarios\\ProjetoUsuario.Utils\\obj\\",
+      "outputPath": "C:\\Users\\Jesuino\\Source\\Repos\\jesuino-treinamento\\Prototipo_Projeto_Usuario\\Projeto_Usuarios\\ProjetoUsuario.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
